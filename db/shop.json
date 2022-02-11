@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "ASUS ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+    {
+      "name": "Telefon",
+      "description": "Iphone 8 telefon",
+      "price": "5000",
+      "categoryId": "2",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "id": 3
+    },
+    {
+      "name": "SmartWatch",
+      "description": "Lemfo K22",
+      "imageUrl": "https://www.imei.info/media/t/gsm-cache/h/i/r9lHLm-d/lemfo-k22.jpg",
+      "price": "500",
+      "categoryId": "2",
+      "id": 4
+    },
+    {
+      "name": "Telefon",
+      "description": "Samsung",
+      "imageUrl": "https://www.incehesap.com/resim/urun/201803/5aa239a3d10e0_500.jpg",
+      "price": "750",
+      "categoryId": "2",
+      "id": 5
+    },
+    {
+      "name": "dönüştürücü",
+      "description": "type-c to jac",
+      "imageUrl": "https://productimages.hepsiburada.net/s/19/1500/9832183889970.jpg",
+      "price": "70",
+      "categoryId": "2",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "elektronik"
+    }
+  ]
+}
