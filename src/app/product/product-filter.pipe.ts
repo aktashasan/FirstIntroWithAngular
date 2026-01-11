@@ -2,7 +2,8 @@ import { Pipe, PipeTransform } from '@angular/core';
 import { Product } from './product';
 
 @Pipe({
-  name: 'productFilter'
+  name: 'productFilter',
+  standalone: false
 })
 export class ProductFilterPipe implements PipeTransform {
 

@@ -8,6 +8,7 @@ import { Product } from '../product';
 
 @Component({
   selector: 'app-product-add-forms1',
+  standalone: false,
   templateUrl: './product-add-forms1.component.html',
   styleUrls: ['./product-add-forms1.component.css'],
   providers:[CategoryService,ProductService],

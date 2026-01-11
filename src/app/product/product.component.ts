@@ -10,6 +10,7 @@ import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-product',
+  standalone: false,
   templateUrl: './product.component.html',
   styleUrls: ['./product.component.css'],
   providers:[ProductService]
